@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 小梦的第一个编程 </title>
+</head>
+<body>
+  <div style="background-color:#afbce7;text-align:center;padding:40px">
+   <img src="0848172c12d8fea9a3dd958df47e9e2.jpg"alt="0848172c12d8fea9a3dd958df47e9e2.jpg"width="400px"height="300px">
+  </div>
+  <div style="background-color: rgb(167, 206, 240);text-align:center">
+<p>
+你好，我是小梦~    
+</p>
+<p>
+我的爱好是三国相关的内容，以及接触新鲜事物，我想要努力学习，确总是缺少动力    
+</p>
+<hr>
+  </div>
+  <div style="background-color: rgb(218, 229, 238);text-align:center">
+    <p>
+     加油~
+    </p>
+    <p><a href="小梦编程2.html">点击这里</a></p>
+  </div>
+</body>
+</html>

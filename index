@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>我们的周年纪念日</title>
+    <style>
+      body {
+        background-color: rgb(169, 214, 211);
+        font-family: Arial, sans-serif;
+      }
+      
+      h1 {
+        text-align: center;
+        color: rgb(169, 171, 151);
+      }
+      
+      p {
+        text-align: center;
+        font-size: 20px;
+      }
+      
+      img {
+        display: block;
+        margin: auto;
+        width: 50%;
+       
+      }
+      .image-container {
+  display: flex;
+  justify-content: center;
+}
+
+      
+      .quote {
+        font-style: italic;
+        text-align: center;
+      }
+    </style>
+  </head>
+  
+  <body>
+    <h1>猫猫骑士和猫猫公主二周年！！！！</h1>
+    
+    <img src="DD6490B6A214FA22DE6EE2B550890854.jpg" alt="DD6490B6A214FA22DE6EE2B550890854.jpg">
+    
+    <p>可爱的猫猫公主，我想告诉你我有多爱你，但是言语无法表达，只能一直待在你的身边。感谢你在我身边的陪伴，我真的很幸运能够和你在一起。</p>
+    <p class="quote">"愿我如星君如月，夜夜流光相皎洁。"</p>
+
+    <p>两年内我们经历过争吵也经历过矛盾，但这不妨碍我一直一直都想我的猫猫公主开开心心快快乐乐
+        因为有你在的日子里都是开心。
+    </p>
+    
+    <p>爱你，我的猫猫公主，一直一直都是我的猫猫公主~</p>
+    <div class="image-container">
+        <img src="1.png" alt="1.png">
+        <img src="2.png" alt="2.png">
+      </div>
+      
+    <audio src="录音 (6).m4a" autoplay loop>
+  
+  </body>
+</html>
